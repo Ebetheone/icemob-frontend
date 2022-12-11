@@ -1,0 +1,30 @@
+$whiteColor: #ffff;
+.header {
+  top: 0;
+  position: fixed;
+  width: 100%;
+  overflow: hidden;
+  padding: 0 2em 0 2em;
+  background-color: #000000;
+  text-align: center;
+  z-index: 100;
+  ul {
+    list-style-type: none;
+    li {
+      text-decoration: none;
+      text-align: center;
+      padding-right: 3em;
+      color: $whiteColor;
+      cursor: pointer;
+    }
+  }
+  .header-logo {
+    float: left;
+  }
+  .navbar-right {
+    display: flex;
+    justify-content: right;
+    align-items: center;
+    font-size: 17px;
+  }
+}

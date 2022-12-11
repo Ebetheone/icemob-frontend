@@ -1,0 +1,17 @@
+.purchase {
+  color: white;
+  align-items: center;
+  margin-top: 6rem;
+  .purchaseTitle {
+    font-weight: 400;
+    font-size: 20px;
+  }
+
+  .purchaseDetails {
+    background-color: black;
+    .purchaseForm {
+      position: relative;
+      height: 100%;
+    }
+  }
+}

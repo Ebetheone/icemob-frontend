@@ -1,0 +1,36 @@
+$mainYellow: #ffd200;
+.contact {
+  margin-top: 6rem;
+  .contactus {
+    border: 1px solid #101010;
+    background-color: #101010;
+    color: #ffffff;
+    padding-bottom: 3em;
+    .contact-title {
+      margin-top: 5rem;
+      text-align: center;
+    }
+    .contact-button {
+      width: 80%;
+      background-color: $mainYellow;
+      padding: 1em 0 1em 0;
+      border-radius: 20px;
+      text-align: center;
+    }
+    .contactList {
+      font-size: 1.6rem;
+      margin-left: 50%;
+      transform: translate(-50%, 0%);
+      width: 80%;
+    }
+    .contact-feedback {
+      margin-left: 50%;
+      transform: translate(-50%, 0%);
+      width: 80%;
+    }
+    .map-container {
+      width: 300px;
+      height: 300px;
+    }
+  }
+}

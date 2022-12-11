@@ -1,0 +1,26 @@
+.yellow {
+  color: #ffd200;
+}
+
+.bg-black {
+  background-color: black;
+}
+
+.bg-grey {
+  background-color: #202020;
+}
+
+.btn-yellow {
+  padding: 1.2rem;
+  text-align: center;
+  border-radius: 1rem;
+  border: none;
+  background-color: #ffd200;
+  color: black;
+  font-size: 1.8rem;
+  cursor: pointer;
+
+  &:hover {
+    scale: 1.001;
+  }
+}

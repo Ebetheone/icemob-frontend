@@ -1,0 +1,13 @@
+[
+  { "id": 1, "name": "ЭЛЕКТРОНИК" },
+  { "id": 2, "name": "МОНГОЛ" },
+  { "id": 3, "name": "КИДС" },
+  { "id": 4, "name": "ROCK" },
+  { "id": 5, "name": "REGGAE" },
+  { "id": 6, "name": "SOUNDTRACK" },
+  { "id": 7, "name": "CLASSIC" },
+  { "id": 8, "name": "BLUES" },
+  { "id": 9, "name": "SOUL / R&B" },
+  { "id": 10, "name": "JAZZ" },
+  { "id": 11, "name": "POP" }
+]

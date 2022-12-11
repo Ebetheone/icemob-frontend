@@ -1,0 +1,23 @@
+$whiteColor: #ffff;
+
+.footer {
+  font-size: 1.6rem;
+  .footer-top {
+    display: flex;
+    justify-content: space-between;
+    padding: 3em 8em 3em 8em;
+    width: 100%;
+    height: auto;
+    background-color: #000000;
+    color: $whiteColor;
+    border-bottom: 0.5px solid gray;
+  }
+  .footer-bottom {
+    padding: 0.5em 8em 0.5em 8em;
+    background-color: #101010;
+    color: $whiteColor;
+  }
+  .copyright {
+    text-align: end;
+  }
+}
